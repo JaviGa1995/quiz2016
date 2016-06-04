@@ -7,7 +7,6 @@
   <body>
     <h1><%= title %></h1>
     <p>Welcome to <%= title %></p>
-	<p> El portal donde podrá crear sus propios juegos! </p>
 	<footer><a href="https://github.com/JaviGa1995"> Javier Gangoso </a> </footer>
   </body>
 </html>
